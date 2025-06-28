@@ -16,6 +16,7 @@ Help researchers, students, and public sector professionals structure and manage
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) installed
 - [Poppler](https://blog.alivate.com.au/poppler-windows/) installed and added to PATH
 - Git recommended for cloning the repository
+- Install dependencies using pip install -r requirements.txt
 
 ### Setup
 ```bash
