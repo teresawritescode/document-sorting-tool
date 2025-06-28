@@ -1,0 +1,6 @@
+pytesseract
+pdf2image
+pandas
+openpyxl
+PyPDF2
+pillow
